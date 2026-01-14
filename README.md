@@ -27,7 +27,7 @@ https://toolsaday.com/writing/developmental-editing
 Revision & Research:
 Narrative Writing:
 Option A
-- Narrative Prompt Sheet On My Github &
+- Narrative Prompt Sheet On My Github & https://github.com/na30sebu/PromptSheet/blob/master/one
 (Check this video's description for a link to the Prompt Sheet 
 on my Github!). &
 https://textsynth.com/completion.html
