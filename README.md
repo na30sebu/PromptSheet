@@ -22,7 +22,7 @@ https://microqit.com/text-splitter
 Developmental Editing:
 https://toolsaday.com/writing/developmental-editing
 - Limit 200,000 Characters
-- 2 – 4 free prompts before a sign‑up paywall appears.
+- 1 free prompt before a sign‑up paywall appears.
 
 Revision & Research:
 Narrative Writing:
