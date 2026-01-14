@@ -1,6 +1,9 @@
 To Do List:
 - Write story scene.
 
+For Business Drafts:
+https://copilot.microsoft.com
+
 BEST: Text Tools For New Authors  -
 Editing Transcripts:
 - (Ctrl + F)
@@ -33,6 +36,7 @@ on my Github!). &
 https://textsynth.com/completion.html
 - & Prompt: 1 Line Of Dialogue.
 - (No Logs). Claims that the AI is not trained on your data.
+
 Option B
 https://www.toonamiaftermath.com
 - (Watch Toonami Aftermath on Mute).
