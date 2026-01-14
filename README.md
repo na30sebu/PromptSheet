@@ -108,8 +108,6 @@ Coupons -— https://www.udemyfreebies.com
 CON: "I find Udemy hard to access in practice since I never feel 
 motivated to go to the site or use the app.”
 
-Style, is similar to having an opinion—which is really just a theory from someone who hasn't figured everything out. Why would someone choose your style? It emerges as much from your omissions and dislikes as from your deliberate choices. Why would people choose to listen to you in the future when they could just talk to AI all the time, without needing a keyboard or a break? Even when you use AI to make things, all of us are vulnerable at times, and that is what connects all of us, to one another. If you remain headstrong past the negative opinions of others—whether something that happens is good or bad—just focus on the facts. And well then, why wouldn't they? Sometimes it takes a while for all of us to discover things for what they really are.
-
 Fused and Defused Thinking:
 - Fused thinking is where you're working and focused on your project.
 - Defused thinking is when you're away and taking a break from your project,
