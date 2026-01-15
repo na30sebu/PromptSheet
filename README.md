@@ -125,7 +125,7 @@ Google Antigravity
 
 Blockbench
 - Simpler than Blender
-- Can convert Pixel Art items to Models for 3D inventory.
+- Can convert Pixel Art items to Models for 3D Props.
 - You still have to learn how to design with Low-Poly 3D, 
 and with Textures.
 
