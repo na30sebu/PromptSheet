@@ -51,17 +51,6 @@ Research
 - Claims that the AI is not trained on your data.
 
 Plot Holes
-How alkali metal reacts to turmeric 
-
-How the body, converts all the alkali metal into something else and how by the
-time one urinates, the urine is completely without any trace of the alkali metal
-and why
-
-how alkali metal could destabilize atoms in all organisms and how that could
-change a living being such as a human if they were to destabilize
-
-how someone working at a gas station / hardware store could have learned 
-about all this in past experiences while at work for both in minutes or in years
 
 Write With A Typewriter-like Experience
 (Alternative) Terminal Workflow:
